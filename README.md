@@ -8,3 +8,13 @@ It offers three key features:
 
 3. Workout History: QuickGym maintains a comprehensive record of past workouts, offering insights into users' progress and performance over time.
 
+# Tech Stack
+Front-End: 
+React Native
+JavaScript
+
+Back-End: 
+Node.js - To manage the server-side logic, handle requests, and provide APIs for machine availability and workout data.
+
+PostgreSQL - For storing user data, workout history, machine availability, and gym related data.
+
